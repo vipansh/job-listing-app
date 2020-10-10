@@ -212,6 +212,12 @@ body {
   margin: 100px;
 }
 @media (max-width: 1120px) {
+  ..newData{
+       font-size: 7px;
+  }
+  .featuredData {
+    font-size: 5px;
+  }
   .search {
     margin-bottom: 50px;
   }
