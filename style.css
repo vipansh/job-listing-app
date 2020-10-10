@@ -212,7 +212,7 @@ body {
   margin: 100px;
 }
 @media (max-width: 1120px) {
-  ..newData{
+  .newData{
        font-size: 7px;
   }
   .featuredData {
