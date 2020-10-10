@@ -9,6 +9,7 @@ body {
 }
 
 body {
+  display:none;
   background-color: hsl(180, 52%, 96%);
   font-family: "Spartan", sans-serif;
   font-size: 16px;
